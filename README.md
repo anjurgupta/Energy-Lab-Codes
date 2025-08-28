@@ -7,6 +7,7 @@ The dataset you will require: [thermal_data_100.csv](thermal_data_100.csv)
 The steps you need to follow:
 Just go line by line of the code to understand the basics of machine learning.
 
+
 # Section 1: Import Required Libraries
 
 (Libraries needed for ML, data handling, and plotting.)
